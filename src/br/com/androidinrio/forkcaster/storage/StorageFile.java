@@ -1,0 +1,5 @@
+package br.com.androidinrio.forkcaster.storage;
+
+public class StorageFile {
+
+}
